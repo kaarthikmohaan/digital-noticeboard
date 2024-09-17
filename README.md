@@ -8,3 +8,5 @@ Digital noticeboard system developed using HTML, JavaScript, and PHP, featuring 
 - Develop a secure user authentication system that includes user registration, login, and session management, using client-side local storage for maintaining login states and server-side verification with PHP for secure data handling.
 - Integrate a password recovery feature by implementing security questions and validating responses via AJAX requests to server-side PHP scripts, ensuring a secure and efficient method for users to reset their passwords.
 - Utilize asynchronous communication (AJAX) to dynamically load and manage notices in real-time without requiring page reloads, improving user experience by allowing instant updates for notifications and password management.
+
+![Screenshot (130)](https://github.com/user-attachments/assets/701cf98e-d967-4de4-8d01-571c0416bcac)
